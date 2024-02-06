@@ -1,0 +1,8 @@
+name: 'AI Database Tools'
+type: module
+description: 'Tools for managing documents in a vector database'
+package: Custom
+core_version_requirement: ^9.4 || ^10
+dependencies:
+  - core_event_dispatcher
+  - hook_event_dispatcher

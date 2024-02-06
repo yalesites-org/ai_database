@@ -1,0 +1,5 @@
+{
+  "name": "yalesites-org/ai_database",
+  "description": "Tools for managing documents in a vector database.",
+  "type": "drupal-module"
+}
